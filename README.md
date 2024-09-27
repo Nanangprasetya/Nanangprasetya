@@ -38,7 +38,7 @@ I’m from Indonesia and I have been working (Freelance) as a Software Developer
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=flutter,react,vue,wordpress&theme=light"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=flutter,react,nextjs,vue&theme=light"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Design</td>
@@ -49,7 +49,7 @@ I’m from Indonesia and I have been working (Freelance) as a Software Developer
         <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,laravel,firebase,bun&theme=light"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=light"/></td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@ I’m from Indonesia and I have been working (Freelance) as a Software Developer
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab&theme=light"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode&theme=light"/></td>
     </tr>
     <tr>
