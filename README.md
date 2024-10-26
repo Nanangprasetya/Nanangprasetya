@@ -5,7 +5,7 @@
 I’m from Indonesia and I have been working (Freelance) as a Software Developer especially in the Web/Mobile Development and UI/UX Designer for more than 3 year at Panemu Indonesia company. 🚀
 
 - 👀 I’m interested in Front End Developer and UIUX Designer
-- 🌱 I’m currently learning ReactJS and AI
+- 🌱 I’m currently learning NextJs and AI
 - 💞️ I’m looking to collaborate on Panemu Indonesia
 - 📫 How to reach me [Telegram](https://t.me/biscuit_uiux)
 
