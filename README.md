@@ -67,4 +67,4 @@ I’m from Indonesia and I have been working (Freelance) as a Software Developer
 </table>
 
 
-© [Nanangprasetya](https://github.com/Nanangprasetya) 2024
+© [Nanangprasetya](https://github.com/Nanangprasetya) 2025
