@@ -2,10 +2,10 @@
 
 ### Hello 👋, I'm Nanang Prasetya
 
-I’m from Indonesia and I have been working (Freelance) as a Software Developer especially in the Web/Mobile Development and UI/UX Designer for more than 3 year at Panemu Indonesia company. 🚀
+I’m from Indonesia and I have been working (Freelance) as a Software Developer especially in the Web/Mobile Development and UI/UX Designer for more than 4 year at Panemu Indonesia company. 🚀
 
-- 👀 I’m interested in Front End Developer and UIUX Designer
-- 🌱 I’m currently learning NextJs and AI
+- 👀 I’m interested in Automation Specialist (n8n) | Front End Developer | UIUX Designer
+- 🌱 I’m currently learning about AI Agent and Automation Specialist (n8n)
 - 💞️ I’m looking to collaborate on Panemu Indonesia
 - 📫 How to reach me [Telegram](https://t.me/biscuit_uiux)
 
@@ -38,31 +38,35 @@ I’m from Indonesia and I have been working (Freelance) as a Software Developer
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=flutter,react,nextjs,vue&theme=light"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=flutter,nextjs,react,angular,vue&theme=light"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Design</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=figma&theme=light"/></td>
     </tr>
     <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=dart,typescript,javascript&theme=light"/></td>
+    </tr>
+    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,laravel,firebase,bun&theme=light"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nestjs,nodejs,laravel,express&theme=light"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=light"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,redis,mongodb&theme=light"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab&theme=light"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postman,vercel,tailwind,notion,pnpm,firebase,git&theme=light"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode&theme=light"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=apple,ubuntu,alpine&theme=light"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">OS/Container</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,apple,ubuntu&theme=light"/></td>
     </tr>
 </table>
 
