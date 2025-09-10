@@ -46,7 +46,7 @@ I’m from Indonesia and I have been working (Freelance) as a Software Developer
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=dart,typescript,javascript&theme=light"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=dart,typescript,javascript,python&theme=light"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend</td>
