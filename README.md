@@ -54,11 +54,11 @@ I’m from Indonesia and I have been working (Freelance) as a Software Developer
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,redis,mongodb&theme=light"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,supabase,mysql,redis,firebase,mongodb&theme=light"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postman,vercel,tailwind,notion,pnpm,firebase,git&theme=light"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postman,vercel,tailwind,notion,pnpm,git&theme=light"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides</td>
